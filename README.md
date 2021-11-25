@@ -2,7 +2,15 @@
 
 React Native developed for tracking the stocks around the world 📈
 ---
-
+```
+To Run the project
+git clone <repo>
+npm install
+npm start
+```
+```
+Teach Stack: React Native, RestAPI's
+```
 ![image](https://user-images.githubusercontent.com/68097369/139482460-cdfc0140-1ae3-46e4-a067-48207afce351.png)
 ---
 
